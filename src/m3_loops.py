@@ -136,6 +136,7 @@ def run_test_practice_problem3():
     ####################################################################
 
 
+
 def practice_problem3(start, n, threshold):
     """
     What comes in:
@@ -216,6 +217,7 @@ def practice_problem3(start, n, threshold):
     #    DIFFICULTY:      5
     #    TIME ESTIMATE:   < 15 minutes.
     ####################################################################
+
 
 
 # ----------------------------------------------------------------------
